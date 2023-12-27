@@ -1,5 +1,5 @@
 # CPU
-16 16-Bit General Purpose Registers
+16 16-Bit General Purpose Registers\n
 16 16-Bit Hard Drive & RAM Auxillary Registers
 16 4-Bit Flags
 65536 Long 16-Bit Stack
