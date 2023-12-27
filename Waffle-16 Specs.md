@@ -5,6 +5,8 @@
 65536 Long 16-Bit Stack
 256 Long 32-Bit Function Stack
 Dual-Core @16MHz
+
+
 # Graphics
 960x540 Screen Resolution @60Hz
 ## Palettized Bitmap Mode
@@ -23,3 +25,6 @@ Dual-Core @16MHz
 256 Different Sprites at a time
 256x256 Max Sprite Resolution
 65536 Different 8x8 Tiles
+
+
+# Memory
