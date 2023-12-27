@@ -1,4 +1,4 @@
-OBJS = main.c
+OBJS = src/main.c
 
 CC = gcc
 
